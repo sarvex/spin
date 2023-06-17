@@ -23,7 +23,7 @@ spin-common = { path = "../common" }
 spin-loader = { path = "../loader", features = ["bindle"]}
 spin-manifest = { path = "../manifest" }
 tempfile = "3.3.0"
-thiserror = "1.0.37"
+thiserror = "1.0.40"
 tokio = { version = "1.20", features = ["full"] }
 tracing = { workspace = true }
 toml = "0.5"
