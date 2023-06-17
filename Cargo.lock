@@ -1460,9 +1460,9 @@ checksum = "fea41bba32d969b513997752735605054bc0dfa92b4c56bf1189f2e174be7a10"
 
 [[package]]
 name = "docker_credential"
-version = "1.1.0"
+version = "1.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bf2b7a539236f31eb8bcfa784affc137400cedbf1a73e0607acbb2f6306584e5"
+checksum = "9f2821ba7f89de240e70f4af347ba5260512d0799a53556c10750805bad7c7fc"
 dependencies = [
  "base64 0.10.1",
  "serde",
