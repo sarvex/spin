@@ -8,7 +8,7 @@ edition = { workspace = true }
 anyhow = "1.0"
 base64 = "0.21"
 dkregistry = { git = "https://github.com/camallo/dkregistry-rs", rev = "37acecb4b8139dd1b1cc83795442f94f90e1ffc5" }
-docker_credential = "1.0"
+docker_credential = "1.2"
 dirs = "4.0"
 futures-util = "0.3"
 oci-distribution = { git = "https://github.com/krustlet/oci-distribution", rev = "64986855ef0d692df3b270d23c4bee8c41d97c27" }
