@@ -34,7 +34,7 @@ spin-core = { path = "../core" }
 spin-loader = { path = "../loader" }
 spin-manifest = { path = "../manifest" }
 tokio = { version = "1.23", features = ["fs"] }
-toml = "0.5.9"
+toml = "0.7.3"
 tracing = { workspace = true }
 url = "2"
 wasmtime = { workspace = true }
@@ -42,5 +42,5 @@ spin-componentize = { workspace = true }
 
 [dev-dependencies]
 tempfile = "3.3.0"
-toml = "0.5"
+toml = "0.7"
 tokio = { version = "1.23", features = ["rt", "macros"] }
